@@ -1,0 +1,2 @@
+# TelecomStockSelector
+Data mining project
